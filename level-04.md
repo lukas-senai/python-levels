@@ -1,3 +1,5 @@
+# Level 4 - Laços `while`
+
 ## Exercício 1: Adivinhe o Número
 **Contexto:** Um jogo onde o computador pensa em um número e o jogador deve adivinhar.
 
