@@ -1,3 +1,5 @@
+# Level 2 - Condições (`if`, `else`, `elif`)
+
 ## Exercício 1: Verificador de Maioridade
 **Contexto:** Uma boate precisa verificar se os clientes podem entrar (idade mínima: 18 anos).
 
