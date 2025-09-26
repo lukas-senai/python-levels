@@ -1,3 +1,5 @@
+# Level 1 - Variáveis, Entrada e Saída (`input()`, `print()`)
+
 ## Exercício 1: Apresentação Pessoal
 **Contexto:** Você está criando um sistema de cadastro para um clube de programação. Cada novo membro precisa se apresentar.
 
